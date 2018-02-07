@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-node-strict",
+  "version": "0.0.1",
+  "description": "Eslint more or less strict to formatting config for node environment with es6 features support",
+  "repository": "https://github.com/canufeel/eslint-config-node-strict",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 4"
+  },
+  "author": "Petr Kosikhin",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^8.2.1"
+  }
+}
